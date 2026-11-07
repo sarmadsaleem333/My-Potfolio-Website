@@ -136,21 +136,6 @@ export const projects: {
     featured: true,
   },
   {
-    title: "Elite Genotype Selection from UAV Imagery",
-    summary: "Multi-task, rank-aware learning for stable selection under data scarcity.",
-    points: [
-      "Learns from UAV-based multispectral temporal imagery to rank crop genotypes reliably with very few labelled samples.",
-      "Accepted at IEEE FMLDS 2026.",
-    ],
-    category: "Research",
-    image: "/images/projects/genotype.svg",
-    tags: ["Multi-task Learning", "Ranking", "UAV", "PyTorch"],
-    github: "",
-    live: "",
-    paper: "",
-    featured: true,
-  },
-  {
     title: "LawBot — Legal Document QA",
     summary: "Source-grounded retrieval-augmented generation over long legal texts.",
     points: [
@@ -256,16 +241,6 @@ export const publications: {
     authors: "M. S. Saleem, A. Imran, A. Haider, Z. Zafar, K. Berns, M. M. Fraz",
     title:
       "GlacioVision: Deep Learning for Predicting Future Glacier Extent and Elevation Change from Remote Sensing and Glacio-Meteorological Data",
-    venue: "IEEE International Conference on Future Machine Learning and Data Science (FMLDS)",
-    year: "2026",
-    status: "Accepted · to appear",
-    link: "",
-    pdf: "",
-  },
-  {
-    authors: "M. S. Saleem, Z. Mahmood, Z. Zafar, M. M. Fraz",
-    title:
-      "Multi-Task Rank-Aware Learning for Stable Elite Genotype Selection from UAV-based Multispectral Temporal Imagery under Data Scarcity",
     venue: "IEEE International Conference on Future Machine Learning and Data Science (FMLDS)",
     year: "2026",
     status: "Accepted · to appear",
